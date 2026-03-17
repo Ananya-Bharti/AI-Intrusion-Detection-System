@@ -33,7 +33,7 @@ This is a **live intrusion detection simulator** that mimics what a real network
 4. **Lets you switch between 4 different ML models** to compare their behavior
 5. **Fires real-time alerts** whenever a threat is detected
 
-You don't pre-select what attack to inject — the models figure it out themselves.
+No need to pre-select what attack to inject, the ML models classify it themselves.
 
 ---
 
